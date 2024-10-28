@@ -1,0 +1,11 @@
+Crear un componente (Ej: Saludo) usando prop children y fragment,
+y enviar una variable que contenga un nombre como prop e inserte 
+un children escrito Hello. Devolver el mensaje, por ejemplo: 
+Hola Juan. Recordemos que Hola es el children y Juan es enviado 
+como prop.
+
+(Bonus) Si lo anterior lo pudiste resolver rápido, podes realizar
+un componente llamado Card, el cual en alguno de los casos
+renderice un elemento button (Ejemplo, que diga “agregar”) 
+mediante el uso de children y que reciba un texto diferente por
+prop en cada renderizado.
